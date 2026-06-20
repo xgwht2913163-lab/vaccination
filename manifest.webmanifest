@@ -1,0 +1,18 @@
+{
+  "name": "儿童疫苗接种提醒",
+  "short_name": "疫苗提醒",
+  "description": "按国家免疫规划生成儿童疫苗接种提醒，可保存多个儿童档案。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f8",
+  "theme_color": "#1f7a8c",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
